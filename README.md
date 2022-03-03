@@ -13,14 +13,16 @@ You may also see any lint errors in the console.
 
 ## Sign Up page
 
-![Screenshot (326)](https://user-images.githubusercontent.com/83421033/156636415-eeee02fd-12a0-48c9-822d-32782c7ea41b.png)
+<img width="900" alt="Screenshot (326)" src="https://user-images.githubusercontent.com/83421033/156637424-9f5c994f-f32f-4bd5-81a4-88dc89c963c7.png">
 
 
 ## Login Page
 
-![Screenshot (327)](https://user-images.githubusercontent.com/83421033/156636310-35784d4f-7e7a-4aa2-a2e9-0d0ffc0d8ab2.png)
+
+<img width="901" alt="Screenshot (327)" src="https://user-images.githubusercontent.com/83421033/156637332-3fecd3f4-13b8-4a85-ae5b-2300632c44d6.png">
 
 
 ## Main Page
 
-![Screenshot (328)](https://user-images.githubusercontent.com/83421033/156636495-d081d3a2-6e35-4765-b7fa-1e147b26f3f0.png)
+<img width="900" alt="Screenshot (328)" src="https://user-images.githubusercontent.com/83421033/156637304-74df93f9-9c1b-413f-a552-4d6fbf818aec.png">
+
